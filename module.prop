@@ -1,0 +1,7 @@
+id=x-integrity
+name=X-Integrity — Play Integrity Fix
+version=v1.0.0
+versionCode=100
+author=boba
+description=All-in-one Play Integrity Fix for rooted devices & custom ROMs. Pass DEVICE_INTEGRITY & STRONG_INTEGRITY safely without bootloop/brick risk. Compatible with Magisk, KitsuneMask, and all forks.
+updateJson=

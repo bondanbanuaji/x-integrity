@@ -1,0 +1,22 @@
+{
+    "_comment": "X-Integrity — Custom Fingerprint Configuration",
+    "_instructions": "Fill in the fields below with your custom fingerprint. This file takes priority over pif.json when present.",
+    "MANUFACTURER": "",
+    "MODEL": "",
+    "FINGERPRINT": "",
+    "BRAND": "",
+    "PRODUCT": "",
+    "DEVICE": "",
+    "RELEASE": "",
+    "ID": "",
+    "INCREMENTAL": "",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "",
+    "spoofBuild": true,
+    "spoofProps": true,
+    "spoofProvider": true,
+    "spoofSignature": false,
+    "verboseLogs": 0
+}

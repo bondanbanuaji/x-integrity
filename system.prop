@@ -1,0 +1,22 @@
+# X-Integrity System Properties
+# These props are applied via Magisk's system.prop mechanism (persistent)
+
+# Ensure device appears as production build
+ro.build.type=user
+ro.build.tags=release-keys
+
+# Security indicators
+ro.debuggable=0
+ro.secure=1
+
+# Boot verification state
+ro.boot.vbmeta.device_state=locked
+ro.boot.verifiedbootstate=green
+ro.boot.flash.locked=1
+ro.boot.veritymode=enforcing
+ro.boot.warranty_bit=0
+ro.warranty_bit=0
+ro.is_ever_orange=0
+
+# ADB security
+ro.adb.secure=1
